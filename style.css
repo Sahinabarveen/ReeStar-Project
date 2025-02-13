@@ -1,0 +1,84 @@
+*{
+  padding: 0;
+  margin: 0;
+}
+
+body{
+  font-family: sans-serif;
+}
+
+.container{
+  padding: 50px;
+}
+
+.section-nav{
+  background-color: black;
+  height: 80px;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+}
+
+.section-nav__name,.section-nav__para{
+  margin-top: 10px;
+}
+
+.section-main__box{
+  border: 2px solid black;
+  display: inline-block;
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 15px;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.section-main__box h4,.section-main__box p{
+  margin-top: 5px;
+}
+
+.section-main__box button{
+ margin-top: 5px;
+ padding-top: 8px;
+ padding-bottom: 8px;
+ padding-right: 6px;
+ padding-left: 6px;
+ background-color: black;
+ border: none;
+ color: wheat;
+}
+
+.container-food{
+  text-align: center;
+}
+
+.contact-form{
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 150px;
+  padding-top: 30px;
+}
+
+table{
+  display: inline-block;
+}
+
+table input{
+  margin-top: 5px;
+}
+
+
+.contact-form__btn{
+  background-color: yellow;
+  color: black;
+  padding-left: 150px;
+  padding-right: 150px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+
+
+
+
